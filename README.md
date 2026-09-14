@@ -59,7 +59,7 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ### 💻 Programming Languages
 
@@ -67,19 +67,19 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
 </p>
 
-### 🤖 AI & Generative AI
+###  AI & Generative AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
@@ -87,11 +87,11 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 
 **LLMs · LangChain · LangGraph · RAG · AI Agents · Llama 3.1 · Ollama · Claude API**
 
-### 🗄️ Databases
+###  Databases
 
 **MySQL · SQLite · ChromaDB**
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -99,9 +99,9 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 LaunchMind-AI — Autonomous Startup Generator
+###  LaunchMind-AI — Autonomous Startup Generator
 
 **Tech Stack:** Python · FastAPI · LangGraph · LangChain · Claude API · ChromaDB · SQLite
 
@@ -113,7 +113,7 @@ An AI-powered startup generator that transforms ideas into structured business p
 
 ---
 
-### 🤖 AI-Powered Viva Agent
+###  AI-Powered Viva Agent
 
 **Tech Stack:** Python · Flask · Ollama · Llama 3.1 · RAG · HTML · CSS · JavaScript
 
@@ -125,7 +125,7 @@ An AI-powered viva examination platform designed with separate faculty and stude
 
 ---
 
-### 🌐 Local Business Discovery Platform
+###  Local Business Discovery Platform
 
 **Tech Stack:** Node.js · React.js · JavaScript · Telegram Bot API · Discord Bot · Netlify
 
@@ -137,7 +137,7 @@ A platform focused on discovering local businesses and automating website genera
 
 ---
 
-## 🧠 Core Computer Science
+##  Core Computer Science
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -150,13 +150,13 @@ A platform focused on discovering local businesses and automating website genera
 
 ## 🏆 Achievements & Certifications
 
-* 🥈 **2nd Prize** — College Idea Pitching Competition
-* 🚀 Participated in **24-Hour & 8-Hour Hackathons**
-* 🏅 **Oracle AI Foundations Associate**
-* 🐍 **HackerEarth Python Certification**
-* 💻 Solved **219+ problems on LeetCode**
-* 💻 Solved **432+ problems on GeeksforGeeks**
-* ⚡ Active **CodeChef** participant
+*  **2nd Prize** — College Idea Pitching Competition
+*  Participated in **24-Hour & 8-Hour Hackathons**
+*  **Oracle AI Foundations Associate**
+*  **HackerEarth Python Certification**
+*  Solved **219+ problems on LeetCode**
+*  Solved **432+ problems on GeeksforGeeks**
+*  Active **CodeChef** participant
 
 ---
 
