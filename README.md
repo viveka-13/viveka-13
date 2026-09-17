@@ -164,9 +164,9 @@ A platform focused on discovering local businesses and automating website genera
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viveka-13&show_icons=true&hide_border=true&count_private=true" height="180"/>
+<img src="./profile/stats.svg" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveka-13&layout=compact&hide_border=true" height="180"/>
+<img src="./profile/top-langs.svg" height="180"/>
 
 </div>
 
