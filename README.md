@@ -61,7 +61,7 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 
 ## Tech Arsenal
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js" />
@@ -160,7 +160,7 @@ A platform focused on discovering local businesses and automating website genera
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
