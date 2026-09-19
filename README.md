@@ -192,7 +192,7 @@ A platform focused on discovering local businesses and automating website genera
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -210,6 +210,6 @@ A platform focused on discovering local businesses and automating website genera
 
 <div align="center">
 
-### 💡 Build. Learn. Solve. Repeat.
+###  Build. Learn. Solve. Repeat.
 
 </div>
