@@ -148,7 +148,7 @@ A platform focused on discovering local businesses and automating website genera
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 *  **2nd Prize** — College Idea Pitching Competition
 *  Participated in **24-Hour & 8-Hour Hackathons**
