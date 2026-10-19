@@ -35,6 +35,8 @@ viveka = {
         "Python",
         "C",
         "JavaScript"
+        "HTML"
+         "CSS"
     ],
     "interests": [
         "AI/ML",
