@@ -156,7 +156,7 @@ A platform focused on discovering local businesses and automating website genera
 *  Participated in **24-Hour & 8-Hour Hackathons**
 *  **Oracle AI Foundations Associate**
 *  **HackerEarth Python Certification**
-*  Solved **219+ problems on LeetCode**
+*  Solved **400+ problems on LeetCode**
 *  Solved **432+ problems on GeeksforGeeks**
 *  Active **CodeChef** participant
 
