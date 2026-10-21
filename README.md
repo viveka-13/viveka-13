@@ -96,7 +96,7 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 ###  Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
