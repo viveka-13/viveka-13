@@ -87,7 +87,7 @@ I enjoy exploring **LLMs, AI agents, RAG pipelines, APIs, automation, and modern
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**LLMs · LangChain · LangGraph · RAG · AI Agents · Llama 3.1 · Ollama · Claude API**
+**LLMs · LangChain · LangGraph · RAG · AI Agents · Llama 3.1 · Ollama**
 
 ###  Databases
 
