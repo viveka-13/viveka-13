@@ -23,7 +23,7 @@ Building intelligent applications, AI agents, RAG systems, and practical softwar
 ```python
 viveka = {
     "education": "B.Tech - Computer Science Engineering",
-    "college": "CMR Technical Campus, Hyderabad",
+    "college": "CMR Technical Campus(CMRTC), Hyderabad",
     "focus": [
         "Artificial Intelligence",
         "Generative AI",
